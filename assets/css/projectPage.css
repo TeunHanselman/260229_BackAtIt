@@ -1,0 +1,52 @@
+._projectImages {
+  grid-column: 3 / 8;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+._projectImages img {
+  width: 100%;
+}
+
+._whiteBorder {
+  stroke: white;
+  stroke-width: 3px;
+  background-color: white;
+}
+
+
+nav {
+    height: auto;
+}
+
+._stickyInfo {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-column-gap: 20px;
+    grid-template-rows: 1fr 1fr 1fr;
+    /* grid-template-rows: repeat(7, 40px); */
+    position: fixed;
+}
+
+._details {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+._returnButton:hover {
+  color:blue;
+}
+
+._description {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row: 3;
+}
+
+._description > p + p {
+  text-indent: 15px;
+}

@@ -1,0 +1,11 @@
+Name: InTermsOf Radio
+
+Tags:
+
+Details: 
+20.5x29cm
+324 Pages
+
+
+Description:
+An abstract publication project aiming at exploring the relationship between the musis & graphic design industry. The structure of the publication resembles that of a radio station, songs playing, ocassionally interupted by segments of radio hosts speaking. The text distribution for the song pages was done by first passing a song through a p5js script, then using the extracted data in a custom scripted InDesign plugin to baseline shift every letter based on the data. The radio hosts segments are built from mixing dozens of various digital sources: music reviews, recorded studio sessions, youtube production content (see sample library). Parts from each source were mixed randomly using more p5js and InDesign scripting. This publication was part of a larger project which aimed to translate characteristics of music to design and vice versa. This was also the starting point for a larger research into music & graphic design in further works, under the project name "InTermsOf".

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "PoWGarnier";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/PoWGarnierDemo-Light.woff2") format("woff2"), url("../fonts/ABCRepro-Medium-Trial.woff2") format("woff2");
+}
+
+* {
+  color: rgb(226, 226, 226);
+}

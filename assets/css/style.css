@@ -11,8 +11,8 @@ html {
 }
 
 p{
-    font-size: 10pt;
-    line-height: 11.5pt;
+    font-size: 9pt;
+    line-height: 10.5pt;
     mix-blend-mode: exclusion;
 }
 
@@ -32,7 +32,6 @@ hr {
 }
 
 ._intro {
-  font-size: 10pt;
   grid-row: 1;
   grid-column-start: 1;
   grid-column-end: 2;
@@ -56,9 +55,7 @@ hr {
   grid-column: 2 / 4;
   grid-row: 1;
   position: relative;
-  left: -12px;
-  /* font-size: 10pt; */
-  /* line-height: 9.5pt; */
+  left: -10px;
 }
 
 #_bioShow:hover {

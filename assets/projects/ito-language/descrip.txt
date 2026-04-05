@@ -1,8 +1,0 @@
-Name: ITO Language System
-
-Tags:
-
-Details: 59.4x84.1 cm
-
-Description:
-A poster documenting the development of a language system for the InTermsOf project. The language system aimed to provide a modular glyph set for discussing and exploring the relation between sound and the visual. The system derives it shape from the circular motifs of music in physical form.

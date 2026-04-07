@@ -85,6 +85,10 @@ hr {
 
 }
 
+._instaLink:hover {
+  color:blue;
+}
+
 ._underline {
   text-decoration: underline;
 }

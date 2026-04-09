@@ -18,7 +18,7 @@ bioButton.addEventListener("click", () => {
   console.log("yo");
 
   if (toggleBio == 0) {
-    bioButton.innerHTML = "Teun Hanselman is a artist/designer who";
+    bioButton.innerHTML = "Teun Hanselman is a designer/artist who";
     toggleBio = 1;
   } else {
     bioButton.innerHTML = "Teun Hanselman";
